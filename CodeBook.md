@@ -1,0 +1,170 @@
+Identifiers
+
+•	subject
+
+•	activity
+
+
+
+
+Measurements
+
+
+•	timeDomainBodyAccelerometerMeanX
+
+•	timeDomainBodyAccelerometerMeanY
+
+•	timeDomainBodyAccelerometerMeanZ
+
+•	timeDomainBodyAccelerometerStandardDeviationX
+
+•	timeDomainBodyAccelerometerStandardDeviationY
+
+•	timeDomainBodyAccelerometerStandardDeviationZ
+
+•	timeDomainGravityAccelerometerMeanX
+
+•	timeDomainGravityAccelerometerMeanY
+
+•	timeDomainGravityAccelerometerMeanZ
+
+•	timeDomainGravityAccelerometerStandardDeviationX
+
+•	timeDomainGravityAccelerometerStandardDeviationY
+
+•	timeDomainGravityAccelerometerStandardDeviationZ
+
+•	timeDomainBodyAccelerometerJerkMeanX
+
+•	timeDomainBodyAccelerometerJerkMeanY
+
+•	timeDomainBodyAccelerometerJerkMeanZ
+
+•	timeDomainBodyAccelerometerJerkStandardDeviationX
+
+•	timeDomainBodyAccelerometerJerkStandardDeviationY
+
+•	timeDomainBodyAccelerometerJerkStandardDeviationZ
+
+•	timeDomainBodyGyroscopeMeanX
+
+•	timeDomainBodyGyroscopeMeanY
+
+•	timeDomainBodyGyroscopeMeanZ
+
+•	timeDomainBodyGyroscopeStandardDeviationX
+
+•	timeDomainBodyGyroscopeStandardDeviationY
+
+•	timeDomainBodyGyroscopeStandardDeviationZ
+
+•	timeDomainBodyGyroscopeJerkMeanX
+
+•	timeDomainBodyGyroscopeJerkMeanY
+
+•	timeDomainBodyGyroscopeJerkMeanZ
+
+•	timeDomainBodyGyroscopeJerkStandardDeviationX
+
+•	timeDomainBodyGyroscopeJerkStandardDeviationY
+
+•	timeDomainBodyGyroscopeJerkStandardDeviationZ
+
+
+•	timeDomainBodyAccelerometerMagnitudeMean
+
+•	timeDomainBodyAccelerometerMagnitudeStandardDeviation
+
+•	timeDomainGravityAccelerometerMagnitudeMean
+
+•	timeDomainGravityAccelerometerMagnitudeStandardDeviation
+
+•	timeDomainBodyAccelerometerJerkMagnitudeMean
+
+•	timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation
+
+•	timeDomainBodyGyroscopeMagnitudeMean
+
+•	timeDomainBodyGyroscopeMagnitudeStandardDeviation
+
+•	timeDomainBodyGyroscopeJerkMagnitudeMean
+
+•	timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation
+
+•	frequencyDomainBodyAccelerometerMeanX
+
+•	frequencyDomainBodyAccelerometerMeanY
+
+•	frequencyDomainBodyAccelerometerMeanZ
+
+•	frequencyDomainBodyAccelerometerStandardDeviationX
+
+•	frequencyDomainBodyAccelerometerStandardDeviationY
+
+•	frequencyDomainBodyAccelerometerStandardDeviationZ
+
+•	frequencyDomainBodyAccelerometerMeanFrequencyX
+
+•	frequencyDomainBodyAccelerometerMeanFrequencyY
+
+•	frequencyDomainBodyAccelerometerMeanFrequencyZ
+
+•	frequencyDomainBodyAccelerometerJerkMeanX
+
+•	frequencyDomainBodyAccelerometerJerkMeanY
+
+•	frequencyDomainBodyAccelerometerJerkMeanZ
+
+•	frequencyDomainBodyAccelerometerJerkStandardDeviationX
+
+•	frequencyDomainBodyAccelerometerJerkStandardDeviationY
+
+•	frequencyDomainBodyAccelerometerJerkStandardDeviationZ
+
+•	frequencyDomainBodyAccelerometerJerkMeanFrequencyX
+
+•	frequencyDomainBodyAccelerometerJerkMeanFrequencyY
+
+•	frequencyDomainBodyAccelerometerJerkMeanFrequencyZ
+
+•	frequencyDomainBodyGyroscopeMeanX
+
+•	frequencyDomainBodyGyroscopeMeanY
+
+•	frequencyDomainBodyGyroscopeMeanZ
+
+•	frequencyDomainBodyGyroscopeStandardDeviationX
+
+•	frequencyDomainBodyGyroscopeStandardDeviationY
+
+•	frequencyDomainBodyGyroscopeStandardDeviationZ
+
+•	frequencyDomainBodyGyroscopeMeanFrequencyX
+
+•	frequencyDomainBodyGyroscopeMeanFrequencyY
+
+•	frequencyDomainBodyGyroscopeMeanFrequencyZ
+
+•	frequencyDomainBodyAccelerometerMagnitudeMean
+
+•	frequencyDomainBodyAccelerometerMagnitudeStandardDeviation
+
+•	frequencyDomainBodyAccelerometerMagnitudeMeanFrequency
+
+•	frequencyDomainBodyBodyAccelerometerJerkMagnitudeMean
+
+•	frequencyDomainBodyBodyAccelerometerJerkMagnitudeStandardDeviation
+
+•	frequencyDomainBodyBodyAccelerometerJerkMagnitudeMeanFrequency
+
+•	frequencyDomainBodyBodyGyroscopeMagnitudeMean
+
+•	frequencyDomainBodyBodyGyroscopeMagnitudeStandardDeviation
+
+•	frequencyDomainBodyBodyGyroscopeMagnitudeMeanFrequency
+
+•	frequencyDomainBodyBodyGyroscopeJerkMagnitudeMean
+
+•	frequencyDomainBodyBodyGyroscopeJerkMagnitudeStandardDeviation
+
+•	frequencyDomainBodyBodyGyroscopeJerkMagnitudeMeanFrequency
