@@ -57,8 +57,8 @@ selectedFeatures.names <- gsub("std", "StandardDeviation", selectedFeatures.name
 colnames(mergedData) <- c("subject", "activity", selectedFeatures.names)
 
 ## turn activities & subjects into factors
-mergedData$activity <- factor(allData$activity, levels = activityLabels[,1], labels = activityLabels[,2])
-mergedData$subject <- as.factor(allData$subject)
+mergedData$activity <- factor(mergedData$activity, levels = activityLabels[,1], labels = activityLabels[,2])
+mergedData$subject <- as.factor(mergedData$subject)
 
 mergedData.melted <- melt(mergedData, id = c("subject", "activity"))
 mergedData.mean <- dcast(mergedData.melted, subject + activity ~ variable, mean)
